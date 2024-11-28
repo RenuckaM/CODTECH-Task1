@@ -2,17 +2,20 @@
 
 **NAME:** RENUCKA M
 
-**Company:** CODTECH IT SOLUTIONS
+**Company:** CODTECH IT SOLUTIONS PVT.LTD
 
-**ID:** 
+**ID:** CT12DS2580
 
 **Domain:** ANDROID DEVELOPMENT
 
-**Duration:** Sept to Dec 2024
+**Duration:** Oct to Dec 2024
 
-**Mentor:**
+**Mentor:** NEELA SANTHOSH KUMAR
 
 ### **Project Name**: **BMI Calculator**
+![image](https://github.com/user-attachments/assets/7c7a0197-5fcd-4bb4-a84b-1b7f3de141e4)
+
+![image](https://github.com/user-attachments/assets/99ad8589-5dec-482f-8b1d-b5f81f879ec1)
 
 ### **Overview of the Project**  
 
